@@ -9,6 +9,7 @@ namespace pr_1._2
         public Form1()
         {
             InitializeComponent();
+            //comment
             textBox3.BackColor = textBox1.BackColor;  
      
         }
